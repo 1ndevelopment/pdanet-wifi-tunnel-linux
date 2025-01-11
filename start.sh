@@ -30,7 +30,9 @@ if command -v apt > /dev/null 2>&1; then
   echo 'Acquire{HTTP::proxy "http://192.168.49.1:8000";HTTPS::proxy "http://192.168.49.1:8000";}' > /etc/apt/apt.conf.d/proxy.conf
   echo "* Apt is now using the proxy"
 elif command -v pacman > /dev/null 2>&1; then
- echo "* Pacman is now using the proxy"
+  echo "* Pacman is now using the proxy"
+elif command -v nix > /dev/null 2>&1; then
+  echo "* Nix is now using the proxy"
 else
   echo "* Package manager not detected."
 fi
