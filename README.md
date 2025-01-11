@@ -1,6 +1,6 @@
 # pdanet-wifi-tunnel-linux
 
-![Screenshot_20250107_161030](https://i.imgur.com/pNHujvH.png)
+![Screenshot](https://i.imgur.com/pNHujvH.png)
 
 # Features
 
@@ -24,7 +24,11 @@ tested on x86_64 Arch Linux with a paid version of pdanet+ running on Android 14
 
 Simply run script as superuser:
 
-`git clone https://github.com/1ndev-ui/pdanet-linux/ ; sudo ./pdanet-linux/pdanet.sh`
+`git clone https://github.com/1ndev-ui/pdanet-wifi-tunnel-linux/`
+
+`cd pdanet-wifi-tunnel-linux`
+
+`sudo ./pdanet.sh`
 
 # To-do
 
