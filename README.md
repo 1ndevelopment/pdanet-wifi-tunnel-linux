@@ -28,7 +28,9 @@ Simply run script as superuser:
 
 `cd pdanet-wifi-tunnel-linux`
 
-`sudo ./pdanet.sh`
+`chmod +x start.sh`
+
+`sudo ./start.sh`
 
 # To-do
 
