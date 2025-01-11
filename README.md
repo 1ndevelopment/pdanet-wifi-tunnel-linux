@@ -1,6 +1,6 @@
 # pdanet-wifi-tunnel-linux
 
-![Screenshot_20250107_161030](https://files.1ndev.com/api/preview/big/images/pdanet-0.1-screenshot.png)
+![Screenshot_20250107_161030](https://i.imgur.com/pNHujvH.png)
 
 # Features
 
