@@ -1,7 +1,7 @@
 #!/bin/bash
 
-WORKSPACE=$(dirname "$(realpath "$0")")
-SCRIPT_NAME=$(basename "$0")
+export WORKSPACE=$(dirname "$(realpath "$0")")
+export SCRIPT_NAME=$(basename "$0")
 
 logo() {
 echo -e "\npdanet wifi tether wrapper - linux v0.1"
