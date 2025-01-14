@@ -1,6 +1,6 @@
 # pdanet-wifi-tunnel-linux
 
-![Screenshot](https://i.imgur.com/pNHujvH.png)
+![Screenshot](https://i.imgur.com/1GWVXUH.png)
 
 # Features
 
@@ -15,16 +15,15 @@
 + Detects package managers 
 + Currently only sets proxy for apt/pacman/git/wget
 + Cleans up upon exit
-
 ++ various other additions
 
-tested on x86_64 Arch Linux with a paid version of pdanet+ running on Android 14.
+++ Tested on x86_64 Debian & Arch Linux with a paid version of pdanet+ running on Android 14.
 
 # How to use
 
 Simply run script as superuser:
 
-`git clone https://github.com/1ndev-ui/pdanet-wifi-tunnel-linux/`
+`git clone https://git.1ndev.com/1ndevelopment/pdanet-wifi-tunnel-linux`
 
 `cd pdanet-wifi-tunnel-linux`
 
@@ -39,6 +38,3 @@ Simply run script as superuser:
 * Implement non-interactive state
 * Add some flags
 * Auto reconnect network interface in case of disconnect
-* Change logo
-
-
