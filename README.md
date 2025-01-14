@@ -1,6 +1,6 @@
 # pdanet-wifi-tunnel-linux
 
-![Screenshot](https://i.imgur.com/1GWVXUH.png)
+![Screenshot](https://files.1ndev.com/api/public/dl/WSYIR1n4/images/pdanet-wifi-tether-screenshot.png)
 
 # Features
 
